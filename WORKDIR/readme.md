@@ -1,4 +1,5 @@
-
+PRACTICE
+-------------
 98.93.25.109 | 172.31.73.177 | t3.micro | https://github.com/rajasekharbi/dockerfiles.git
 [ ec2-user@ip-172-31-73-177 ~/dockerfiles/USER ]$ git pull
 remote: Enumerating objects: 8, done.

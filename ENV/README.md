@@ -4,7 +4,8 @@ ARG vs ENV
 2. ARG is used to supply the values to variables at build time.
 3. ARG can't be accessible inside container.
 
-
+PRACTICE
+-------------
 98.93.25.109 | 172.31.73.177 | t3.micro | https://github.com/rajasekharbi/dockerfiles.git
 [ ec2-user@ip-172-31-73-177 ~/dockerfiles ]$ cd ENV
 

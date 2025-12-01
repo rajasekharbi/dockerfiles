@@ -6,7 +6,8 @@ ADD is also like COPY to copy the content inside the image. But ADD has 2 extra 
 2. It can directly untar the file inside container/image
 
 
-
+PRACTICE
+-------------
 98.93.25.109 | 172.31.73.177 | t3.micro | https://github.com/rajasekharbi/dockerfiles.git
 [ ec2-user@ip-172-31-73-177 ~/dockerfiles/ADD ]$ git pull
 remote: Enumerating objects: 11, done.

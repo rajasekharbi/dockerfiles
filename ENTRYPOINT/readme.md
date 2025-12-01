@@ -4,7 +4,8 @@ CMD ENTRYPOINT
 2. ENTRYPOINT can't be overriden, if we try it will go and append that leads to failure
 3. CMD can be used to supply the default args to ENTRYPOINT. You can always override the default args at run time
 
-
+PRACTICE
+-------------
 98.93.25.109 | 172.31.73.177 | t3.micro | https://github.com/rajasekharbi/dockerfiles.git
 [ ec2-user@ip-172-31-73-177 ~/dockerfiles/ENTRYPOINT ]$ docker build -t entry:v1 .
 [+] Building 0.5s (5/5) FINISHED                                                                docker:default
