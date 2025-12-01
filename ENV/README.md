@@ -1,4 +1,8 @@
-
+ARG vs ENV
+==========
+1. ENV is used to supply the key value pairs for the container/runtime
+2. ARG is used to supply the values to variables at build time.
+3. ARG can't be accessible inside container.
 
 
 98.93.25.109 | 172.31.73.177 | t3.micro | https://github.com/rajasekharbi/dockerfiles.git

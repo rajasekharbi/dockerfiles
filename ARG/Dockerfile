@@ -1,7 +1,7 @@
 ARG VERSION
 FROM almalinux:${VERSION:-9}
 
-#again building key value pairs
+# FROM instruction we can't access ARG variable
 
 ARG COURSE="DOCKER" \
     TRAINER="SIVAKUMAR"
