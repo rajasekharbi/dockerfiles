@@ -1,1 +1,1 @@
-FROM onbuild:v1 cdcdfcdc
+FROM onbuild:v1
